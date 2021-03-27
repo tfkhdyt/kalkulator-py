@@ -1,4 +1,5 @@
 ### Kalkulator Sederhana (Python)
+[![banner-kalkulator-py.jpg](https://i.postimg.cc/52PPx1Qr/banner-kalkulator-py.jpg)](https://postimg.cc/K1M7N6N7)
 <p align=center>
 <a href="https://tfkhdyt.web.app"><img src="https://img.shields.io/badge/Created%20by-tfkhdyt-blue?style=for-the-badge&logo=github" loading="lazy"/></a><br>
 <a href="Https://facebook.com/tfkhdyt142"><img height="30" src="https://www.pinclipart.com/picdir/big/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png" loading="lazy"/></a>&nbsp;
